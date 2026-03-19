@@ -1,24 +1,130 @@
 <svg width="720" height="520" viewBox="0 0 720 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
   <rect width="720" height="520" rx="36" fill="#F7F5EA"/>
-  <rect x="70" y="70" width="160" height="170" rx="26" fill="#173F2F"/>
-  <rect x="250" y="70" width="220" height="170" rx="26" fill="#BFD63A"/>
-  <rect x="490" y="70" width="160" height="170" rx="26" fill="#E78452"/>
-  <rect x="70" y="260" width="120" height="190" rx="26" fill="#BFD63A"/>
-  <rect x="210" y="260" width="160" height="190" rx="26" fill="#FBFAF2" stroke="#173F2F" stroke-width="6"/>
-  <rect x="390" y="260" width="120" height="190" rx="26" fill="#173F2F"/>
-  <rect x="530" y="260" width="120" height="190" rx="26" fill="#FBFAF2" stroke="#173F2F" stroke-width="6"/>
-  <circle cx="150" cy="132" r="34" fill="#BFD63A"/>
-  <circle cx="330" cy="127" r="44" fill="#FBFAF2"/>
-  <circle cx="570" cy="132" r="34" fill="#F7F5EA"/>
-  <rect x="104" y="182" width="92" height="12" rx="6" fill="#F7F5EA" fill-opacity="0.55"/>
-  <rect x="287" y="186" width="146" height="12" rx="6" fill="#173F2F" fill-opacity="0.35"/>
-  <rect x="530" y="182" width="80" height="12" rx="6" fill="#F7F5EA" fill-opacity="0.65"/>
-  <path d="M102 332C120 308 139 294 160 294C181 294 198 308 212 332C198 355 181 368 160 368C139 368 121 356 102 332Z" fill="#173F2F"/>
-  <path d="M253 320H330L300 288L253 320Z" fill="#173F2F"/>
-  <circle cx="282" cy="360" r="32" fill="#BFD63A"/>
-  <circle cx="450" cy="336" r="36" fill="#F7F5EA"/>
-  <rect x="415" y="390" width="70" height="14" rx="7" fill="#BFD63A"/>
-  <rect x="553" y="304" width="74" height="98" rx="18" fill="#173F2F"/>
-  <circle cx="590" cy="336" r="20" fill="#BFD63A"/>
-  <text x="80" y="486" fill="#173F2F" font-size="36" font-family="Georgia, serif" font-style="italic">Il Magazine della Terra</text>
+
+  <!-- Header striscia -->
+  <rect x="54" y="28" width="612" height="52" rx="16" fill="#1A4A2E"/>
+  <text x="200" y="59" fill="#FBFAF2" font-size="20" font-family="Georgia, serif" font-style="italic" text-anchor="middle">Il Magazine della Terra</text>
+  <!-- Badge 100 storie -->
+  <rect x="568" y="36" width="90" height="36" rx="18" fill="#BFD63A"/>
+  <text x="613" y="58" fill="#1A4A2E" font-size="15" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">100 storie</text>
+
+  <!-- ===== COLONNA 1: STORIE DI TERRA ===== -->
+  <!-- Header colonna -->
+  <rect x="54" y="98" width="190" height="40" rx="12" fill="#1A4A2E"/>
+  <text x="149" y="122" fill="#BFD63A" font-size="13" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">Storie di Terra</text>
+
+  <!-- Card articolo 1 -->
+  <rect x="54" y="148" width="190" height="110" rx="14" fill="#1A4A2E"/>
+  <!-- Immagine placeholder -->
+  <rect x="68" y="160" width="162" height="50" rx="8" fill="#2C5B41"/>
+  <!-- Paesaggio stilizzato -->
+  <path d="M68 200 Q100 172 140 185 Q170 165 230 185 L230 210 L68 210Z" fill="#BFD63A" fill-opacity="0.6"/>
+  <circle cx="100" cy="175" r="10" fill="#F2AB48" fill-opacity="0.8"/>
+  <!-- Titolo -->
+  <rect x="68" y="218" width="130" height="9" rx="4" fill="#FBFAF2"/>
+  <rect x="68" y="234" width="100" height="7" rx="3" fill="#FBFAF2" fill-opacity="0.5"/>
+  <!-- Tag -->
+  <rect x="68" y="246" width="52" height="20" rx="10" fill="#BFD63A"/>
+  <text x="94" y="259" fill="#1A4A2E" font-size="9" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">Territorio</text>
+
+  <!-- Card articolo 2 -->
+  <rect x="54" y="270" width="190" height="110" rx="14" fill="#1A4A2E"/>
+  <rect x="68" y="282" width="162" height="50" rx="8" fill="#2C5B41"/>
+  <!-- Paesaggio 2 -->
+  <path d="M68 322 Q110 295 155 308 Q185 298 230 310 L230 332 L68 332Z" fill="#E78452" fill-opacity="0.6"/>
+  <rect x="68" y="340" width="110" height="9" rx="4" fill="#FBFAF2"/>
+  <rect x="68" y="356" width="80" height="7" rx="3" fill="#FBFAF2" fill-opacity="0.5"/>
+  <rect x="68" y="368" width="62" height="20" rx="10" fill="#BFD63A"/>
+  <text x="99" y="381" fill="#1A4A2E" font-size="9" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">Produttori</text>
+
+  <!-- Card 3 mini -->
+  <rect x="54" y="392" width="190" height="82" rx="14" fill="#FBFAF2" stroke="#1A4A2E" stroke-width="3"/>
+  <rect x="68" y="404" width="100" height="8" rx="4" fill="#1A4A2E"/>
+  <rect x="68" y="420" width="70" height="6" rx="3" fill="#1A4A2E" fill-opacity="0.4"/>
+  <rect x="68" y="436" width="80" height="6" rx="3" fill="#1A4A2E" fill-opacity="0.4"/>
+  <circle cx="210" cy="424" r="20" fill="#BFD63A"/>
+  <text x="210" y="420" fill="#1A4A2E" font-size="8" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">+12</text>
+  <text x="210" y="432" fill="#1A4A2E" font-size="8" font-family="Arial, sans-serif" text-anchor="middle">storie</text>
+
+  <!-- ===== COLONNA 2: IL BATTITO DEL CAMPO ===== -->
+  <rect x="265" y="98" width="190" height="40" rx="12" fill="#BFD63A"/>
+  <text x="360" y="122" fill="#1A4A2E" font-size="12" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">Il Battito del Campo</text>
+
+  <!-- Card principale grande -->
+  <rect x="265" y="148" width="190" height="160" rx="14" fill="#BFD63A"/>
+  <!-- Grafico campo stilizzato -->
+  <rect x="279" y="160" width="162" height="80" rx="8" fill="#1A4A2E"/>
+  <!-- Onde/ritmo del campo -->
+  <path d="M279 200 Q300 180 320 200 Q340 220 360 200 Q380 180 400 200 Q420 220 441 200" stroke="#BFD63A" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <path d="M279 208 Q300 195 320 208 Q340 221 360 208 Q380 195 400 208 Q420 221 441 208" stroke="#BFD63A" stroke-width="2" stroke-linecap="round" fill="none" stroke-opacity="0.5"/>
+  <!-- Titolo -->
+  <rect x="279" y="248" width="140" height="10" rx="5" fill="#1A4A2E"/>
+  <rect x="279" y="266" width="110" height="8" rx="4" fill="#1A4A2E" fill-opacity="0.55"/>
+  <!-- Tag stagionale -->
+  <rect x="279" y="282" width="70" height="22" rx="11" fill="#1A4A2E"/>
+  <text x="314" y="296" fill="#BFD63A" font-size="10" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">Stagionale</text>
+
+  <!-- Card 2 -->
+  <rect x="265" y="320" width="190" height="80" rx="14" fill="#FBFAF2" stroke="#BFD63A" stroke-width="3"/>
+  <rect x="279" y="332" width="120" height="9" rx="4" fill="#1A4A2E"/>
+  <rect x="279" y="348" width="90" height="7" rx="3" fill="#1A4A2E" fill-opacity="0.4"/>
+  <rect x="279" y="362" width="100" height="7" rx="3" fill="#1A4A2E" fill-opacity="0.4"/>
+  <!-- Piccola foglia -->
+  <path d="M410 340 C402 344 400 352 406 358 C410 362 416 360 418 355 C420 349 418 343 410 340Z" fill="#BFD63A"/>
+
+  <!-- Card 3 -->
+  <rect x="265" y="412" width="190" height="62" rx="14" fill="#1A4A2E"/>
+  <rect x="279" y="424" width="100" height="8" rx="4" fill="#BFD63A"/>
+  <rect x="279" y="440" width="70" height="6" rx="3" fill="#FBFAF2" fill-opacity="0.5"/>
+  <rect x="405" y="420" width="36" height="36" rx="10" fill="#BFD63A" fill-opacity="0.3"/>
+  <text x="423" y="442" fill="#BFD63A" font-size="16" font-family="Georgia, serif" font-weight="700" text-anchor="middle">→</text>
+
+  <!-- ===== COLONNA 3: DAL SEME AL BARATTOLO ===== -->
+  <rect x="476" y="98" width="190" height="40" rx="12" fill="#E78452"/>
+  <text x="571" y="122" fill="#FBFAF2" font-size="12" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">Dal Seme al Barattolo</text>
+
+  <!-- Card timeline verticale -->
+  <rect x="476" y="148" width="190" height="200" rx="14" fill="#E78452"/>
+  <!-- Step 1: Seme -->
+  <circle cx="510" cy="178" r="14" fill="#FBFAF2"/>
+  <text x="510" y="183" fill="#E78452" font-size="11" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">1</text>
+  <rect x="532" y="168" width="120" height="10" rx="5" fill="#FBFAF2"/>
+  <rect x="532" y="184" width="90" height="8" rx="4" fill="#FBFAF2" fill-opacity="0.5"/>
+  <!-- Connettore -->
+  <line x1="510" y1="192" x2="510" y2="218" stroke="#FBFAF2" stroke-width="2" stroke-dasharray="4 3"/>
+  <!-- Step 2: Raccolta -->
+  <circle cx="510" cy="232" r="14" fill="#FBFAF2"/>
+  <text x="510" y="237" fill="#E78452" font-size="11" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">2</text>
+  <rect x="532" y="222" width="110" height="10" rx="5" fill="#FBFAF2"/>
+  <rect x="532" y="238" width="80" height="8" rx="4" fill="#FBFAF2" fill-opacity="0.5"/>
+  <!-- Connettore -->
+  <line x1="510" y1="246" x2="510" y2="272" stroke="#FBFAF2" stroke-width="2" stroke-dasharray="4 3"/>
+  <!-- Step 3: Trasformazione -->
+  <circle cx="510" cy="286" r="14" fill="#FBFAF2"/>
+  <text x="510" y="291" fill="#E78452" font-size="11" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">3</text>
+  <rect x="532" y="276" width="120" height="10" rx="5" fill="#FBFAF2"/>
+  <rect x="532" y="292" width="70" height="8" rx="4" fill="#FBFAF2" fill-opacity="0.5"/>
+  <!-- Connettore -->
+  <line x1="510" y1="300" x2="510" y2="326" stroke="#FBFAF2" stroke-width="2" stroke-dasharray="4 3"/>
+  <!-- Step 4: Barattolo -->
+  <circle cx="510" cy="334" r="14" fill="#1A4A2E"/>
+  <text x="510" y="339" fill="#BFD63A" font-size="11" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">✓</text>
+  <rect x="532" y="324" width="100" height="10" rx="5" fill="#FBFAF2"/>
+  <rect x="532" y="340" width="120" height="8" rx="4" fill="#FBFAF2" fill-opacity="0.5"/>
+
+  <!-- Card 2 col 3 -->
+  <rect x="476" y="360" width="190" height="80" rx="14" fill="#FBFAF2" stroke="#E78452" stroke-width="3"/>
+  <rect x="490" y="372" width="110" height="9" rx="4" fill="#1A4A2E"/>
+  <rect x="490" y="388" width="80" height="7" rx="3" fill="#1A4A2E" fill-opacity="0.4"/>
+  <rect x="490" y="402" width="95" height="7" rx="3" fill="#1A4A2E" fill-opacity="0.4"/>
+  <circle cx="638" cy="388" r="18" fill="#E78452"/>
+  <text x="638" y="393" fill="#FBFAF2" font-size="14" font-family="Georgia, serif" font-weight="700" text-anchor="middle">→</text>
+
+  <!-- Card 3 col 3 -->
+  <rect x="476" y="452" width="190" height="42" rx="14" fill="#1A4A2E"/>
+  <rect x="490" y="462" width="90" height="8" rx="4" fill="#E78452"/>
+  <rect x="490" y="476" width="60" height="6" rx="3" fill="#FBFAF2" fill-opacity="0.4"/>
+  <circle cx="640" cy="473" r="12" fill="#BFD63A"/>
+  <text x="640" y="477" fill="#1A4A2E" font-size="10" font-family="Arial, sans-serif" font-weight="700" text-anchor="middle">new</text>
 </svg>
