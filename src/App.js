@@ -8,6 +8,7 @@ import Mission from './components/Mission';
 import Network from './components/Network';
 import Shop from './components/Shop';
 import Prodotti from './components/Prodotti';
+import Editoria from './components/Editoria';
 import Contatti from './components/Contatti';
 
 function useReveal() {
@@ -92,6 +93,7 @@ export default function App() {
         <Network />
         <Prodotti />
         <Shop />
+        <Editoria />
         <Contatti />
       </main>
     </>

@@ -6,6 +6,7 @@ const navLinks = [
   { label: 'Network', href: '#network' },
   { label: 'Shop', href: '#shop' },
   { label: 'Prodotti', href: '#prodotti' },
+  { label: 'Editoria', href: '#editoria' },
   { label: 'Contatti', href: '#contatti' },
 ];
 
