@@ -305,8 +305,8 @@ export const brandContent = {
   },
   contacts: {
     phone: "+39 095 3458465003",
-    website: "www.radicidamuri.com",
-    email: "alfio@radicidamuri.com",
+    website: "www.radicidamorenetwork.com",
+    email: "alfio@radicidamorenetwork.com",
     address: "Biancavilla, Valle del Simeto",
   },
 };
