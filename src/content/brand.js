@@ -305,8 +305,8 @@ export const brandContent = {
   },
   contacts: {
     phone: "+39 095 3458465003",
-    website: "www.radicidamorenetwork.com",
-    email: "alfio@radicidamorenetwork.com",
+    website: "www.terradamorenetwork.com",
+    email: "alfio@terradamorenetwork.com",
     address: "Biancavilla, Valle del Simeto",
   },
 };
