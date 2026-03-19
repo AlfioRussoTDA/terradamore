@@ -2,7 +2,7 @@ export const brandContent = {
   name: "Terra D'Amore Network",
   shortName: "Terra D'Amore",
   tagline: "Network - Shop - E-Commerce",
-  supportProject: "Radici d'Amuri",
+  supportProject: "Terra D'Amore",
   heroLabel: "Ecosistema Phygital",
   heroIntro:
     "Un network che connette produttori virtuosi, trasformatori, fruit store e consumatori in un unico spazio fisico e digitale dedicato alla terra e alle sue trasformazioni.",
