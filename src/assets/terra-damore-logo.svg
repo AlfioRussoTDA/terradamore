@@ -1,0 +1,10 @@
+<svg width="360" height="120" viewBox="0 0 360 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="360" height="120" rx="28" fill="#FBFAF2"/>
+  <path d="M64 58C77 26 112 14 145 28C162 35 177 48 188 64" stroke="#7F9722" stroke-width="7" stroke-linecap="round"/>
+  <path d="M70 70C89 49 115 42 146 48C167 52 189 63 215 84" stroke="#1A4A2E" stroke-width="7" stroke-linecap="round"/>
+  <path d="M52 78C97 85 142 83 186 72C210 67 233 60 255 50" stroke="#1A4A2E" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="129" cy="31" r="15" fill="#BFD63A"/>
+  <path d="M222 30C233 23 245 24 253 33C245 37 233 38 222 30Z" fill="#BFD63A"/>
+  <path d="M239 20C242 31 240 43 231 52C228 42 229 29 239 20Z" fill="#6E8C14"/>
+  <text x="88" y="100" fill="#1A4A2E" font-size="34" font-family="Georgia, serif" font-style="italic">Terra d'amore</text>
+</svg>

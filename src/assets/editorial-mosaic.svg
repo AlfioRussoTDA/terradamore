@@ -1,0 +1,24 @@
+<svg width="720" height="520" viewBox="0 0 720 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="520" rx="36" fill="#F7F5EA"/>
+  <rect x="70" y="70" width="160" height="170" rx="26" fill="#173F2F"/>
+  <rect x="250" y="70" width="220" height="170" rx="26" fill="#BFD63A"/>
+  <rect x="490" y="70" width="160" height="170" rx="26" fill="#E78452"/>
+  <rect x="70" y="260" width="120" height="190" rx="26" fill="#BFD63A"/>
+  <rect x="210" y="260" width="160" height="190" rx="26" fill="#FBFAF2" stroke="#173F2F" stroke-width="6"/>
+  <rect x="390" y="260" width="120" height="190" rx="26" fill="#173F2F"/>
+  <rect x="530" y="260" width="120" height="190" rx="26" fill="#FBFAF2" stroke="#173F2F" stroke-width="6"/>
+  <circle cx="150" cy="132" r="34" fill="#BFD63A"/>
+  <circle cx="330" cy="127" r="44" fill="#FBFAF2"/>
+  <circle cx="570" cy="132" r="34" fill="#F7F5EA"/>
+  <rect x="104" y="182" width="92" height="12" rx="6" fill="#F7F5EA" fill-opacity="0.55"/>
+  <rect x="287" y="186" width="146" height="12" rx="6" fill="#173F2F" fill-opacity="0.35"/>
+  <rect x="530" y="182" width="80" height="12" rx="6" fill="#F7F5EA" fill-opacity="0.65"/>
+  <path d="M102 332C120 308 139 294 160 294C181 294 198 308 212 332C198 355 181 368 160 368C139 368 121 356 102 332Z" fill="#173F2F"/>
+  <path d="M253 320H330L300 288L253 320Z" fill="#173F2F"/>
+  <circle cx="282" cy="360" r="32" fill="#BFD63A"/>
+  <circle cx="450" cy="336" r="36" fill="#F7F5EA"/>
+  <rect x="415" y="390" width="70" height="14" rx="7" fill="#BFD63A"/>
+  <rect x="553" y="304" width="74" height="98" rx="18" fill="#173F2F"/>
+  <circle cx="590" cy="336" r="20" fill="#BFD63A"/>
+  <text x="80" y="486" fill="#173F2F" font-size="36" font-family="Georgia, serif" font-style="italic">Il Magazine della Terra</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="720" height="460" viewBox="0 0 720 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="460" rx="36" fill="#F7F5EA"/>
+  <rect x="60" y="120" width="170" height="210" rx="28" fill="#173F2F"/>
+  <rect x="275" y="96" width="170" height="234" rx="28" fill="#BFD63A"/>
+  <rect x="490" y="120" width="170" height="210" rx="28" fill="#173F2F"/>
+  <circle cx="146" cy="196" r="48" fill="#F3A24D"/>
+  <path d="M132 155C139 145 152 143 160 150C151 157 140 159 132 155Z" fill="#6E8C14"/>
+  <rect x="312" y="144" width="95" height="126" rx="24" fill="#FBFAF2"/>
+  <rect x="325" y="128" width="69" height="30" rx="15" fill="#D9C4A3"/>
+  <rect x="325" y="216" width="69" height="40" rx="14" fill="#E16E4A"/>
+  <circle cx="574" cy="184" r="42" fill="#BFD63A"/>
+  <path d="M554 226H594L612 271H536L554 226Z" fill="#FBFAF2"/>
+  <rect x="545" y="270" width="58" height="34" rx="12" fill="#D9C4A3"/>
+  <path d="M229 200H272" stroke="#173F2F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M448 200H491" stroke="#173F2F" stroke-width="10" stroke-linecap="round"/>
+  <path d="M253 182L272 200L253 218" stroke="#173F2F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M472 182L491 200L472 218" stroke="#173F2F" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="83" y="382" fill="#173F2F" font-size="34" font-family="Georgia, serif" font-style="italic">Dal fresco alla trasformazione</text>
+</svg>
